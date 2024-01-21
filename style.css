@@ -10,8 +10,6 @@ body {
 .container {
   display: grid;
   grid-template-columns: 1fr 4fr;
-  height: 100vh;
-  grid-template-rows: 1fr 4fr 1fr;
   gap: 4px;
   text-align: center;
 }
